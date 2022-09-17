@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @nikvdree
-- 🌱 I’m currently learning java and web development
